@@ -6,14 +6,13 @@ const styles = StyleSheet.create({
     padding: 10,
   },
   button: {
-    // color: 'black',
     height: 40,
     borderRadius: 20,
     justifyContent: 'center',
     alignItems: 'center',
   },
   text: {
-    // color: 'black',
+
     fontSize: 12,
     fontWeight: '500',
     textTransform: 'uppercase',
